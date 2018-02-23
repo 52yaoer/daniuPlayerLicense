@@ -1,5 +1,5 @@
 # daniuPlayerLicense
-大牛播放模块授权配套模块
+大牛播放模块（daniuPlayer）授权配套模块
 
 联系大牛商务，获取授权后的iOS和Android双平台的sdk包。
 
@@ -9,11 +9,17 @@ Android：
 
 2、同时将armeabi下面的文件复制一份到target根目录下。
 
+3.将/zip/android/daniuPlayerLicense文件夹压缩为daniuPlayerLicense.zip。
+
+4.以上就制作好了安卓的授权模块包。
 
 iOS：
 
-将iOS的sdk提供的“libSmartPlayerSDK.a”文件复制到/zip/ios/daniuPlayerLicense/target目录下。
+1、将iOS的sdk提供的“libSmartPlayerSDK.a”文件复制到/zip/ios/daniuPlayerLicense/target目录下。
 
+2、将/zip/ios/daniuPlayerLicense文件夹压缩为daniuPlayerLicense.zip。
+
+3.以上就制作好了iOS的授权模块包。
 
 
 #本配套模块的的App授权应用名称如下：
