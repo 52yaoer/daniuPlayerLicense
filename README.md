@@ -29,3 +29,7 @@ Android：SmartPlayerSDKDemo
 iOS：自定义loader  （使用Apicloud默认证书时）
 
 备注：需要你在Apicloud的“云编译”设置“应用名称”。如果你iOS有自己的证书，必须设置应用名称为以上对应名称。
+
+
+
+最新授权文件请转到 https://gitee.com/tyousan_admin/daniuPlayerLicense 进行下载。
